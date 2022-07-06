@@ -12,6 +12,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -30,4 +31,9 @@ section {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.Dream-Big img {
+    width: 100%;
+
 }
